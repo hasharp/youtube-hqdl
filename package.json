@@ -1,0 +1,17 @@
+{
+  "name": "youtube-hqdl",
+  "version": "1.0.0",
+  "description": "Download highest quality video and audio from Youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vuf",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "extend": "^3.0.0",
+    "querystring": "^0.2.0",
+    "sanitize-filename": "^1.5.3"
+  }
+}
